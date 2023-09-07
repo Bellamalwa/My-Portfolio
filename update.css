@@ -8,6 +8,10 @@
 /*# sourceMappingURL=normalize.min.css.map */
 
 /* adding variables */
+
+root {
+  
+}
 body {
     margin: 0;
     font-family: Arial, sans-serif;
